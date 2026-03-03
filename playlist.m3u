@@ -22,6 +22,16 @@ https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
 
 #EXTINF:-1 group-title="MARATHI" tvg-id="ShemarooTV.in@SD",Shemaroo TV (720p)
 https://cdn-3.pishow.tv/live/230/master.m3u8
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ ENTERTAINMENT ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="StarGold.in@HD",Star Gold HD (480p)
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="ZeeCinema.in@HD",Zee Cinema HD (480p)
+http://103.99.249.139/zeecinema/index.m3u8
+
+
+
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ NEWS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
 #EXTINF:-1 group-title="NEWS" tvg-id="SaamTV.in@SD",Saam TV
@@ -40,9 +50,28 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u
 #EXTINF:-1 group-title="NEWS" tvg-id="News18Lokmat.in@SD",News18 Lokmat (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TV9Marathi.in@SD",TV9 Marathi (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Zee24Taas.in@SD",Zee 24 Taas (720p)
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+
+
+
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ SPORTS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (480p)
+http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="DDSports.in@SD",DD Sports (576p)
 https://mumt02.tangotv.in/DDSPORTS/index.m3u8
+
+
+
+
 
 
 
