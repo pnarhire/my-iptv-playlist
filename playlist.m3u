@@ -27,6 +27,18 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="SaamTV.in@SD",Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-id="AajTak.in@HD",Aaj Tak HD (1080p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id="ABPMajha.in@SD",ABP Majha (360p)
+https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id="NDTVMarathi.in@SD",NDTV Marathi (1080p)
+#EXTVLCOPT:http-referrer=https://marathi.ndtv.com/
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id="News18Lokmat.in@SD",News18 Lokmat (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ SPORTS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 #EXTINF:-1 group-title="SPORTS" tvg-id="DDSports.in@SD",DD Sports (576p)
