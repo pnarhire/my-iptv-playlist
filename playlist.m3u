@@ -15,10 +15,23 @@ https://hub.raj.lat/182389819b6f9d99e0dafca6c6ba53fd?token=1772463141
 #EXTINF:-1 group-title="2026 MOVIES" tvg-logo="",Border 2 DVD
 https://cdn.fsl-buckets.life/Border-2.2026.1080p.V2-HDTC.Hindi-Line.x264-HDHub4u.Ms.mkv?token=b44757d2bf726a36f45a3953feb10736_121
 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ MARATHI ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
+#EXTINF:-1 group-title="MARATHI" tvg-id="FaktMarathi.in@SD",Fakt Marathi (576p)
+https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
+
+#EXTINF:-1 group-title="MARATHI" tvg-id="ShemarooTV.in@SD",Shemaroo TV (720p)
+https://cdn-3.pishow.tv/live/230/master.m3u8
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ NEWS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
 #EXTINF:-1 group-title="NEWS" tvg-id="SaamTV.in@SD",Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
+
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ SPORTS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+#EXTINF:-1 group-title="SPORTS" tvg-id="DDSports.in@SD",DD Sports (576p)
+https://mumt02.tangotv.in/DDSPORTS/index.m3u8
+
+
 
 
