@@ -81,6 +81,9 @@ https://mumt02.tangotv.in/DDSPORTS/index.m3u8
 #EXTINF:-1  group-title="SPORTS" tvg-id="DDSports.in@SD",DD Sports (720p)
 https://cdn-6.pishow.tv/live/13/master.m3u8
 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ SPORTS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+#EXTINF:-1  group-title="SPORTS" ,DD National HD (1080p)
+https:\\d3qs3d2rkhfqrt.cloudfront.net\out\v1\40492a64c1db4a1385ba1a397d357d3a\index.m3u8
 
 
 
