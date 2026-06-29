@@ -43,6 +43,9 @@ http://103.99.249.139/zeecinema/index.m3u8
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ NEWS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
+#EXTINF:-1 group-title="NEWS" tvg-id="SaamTV.in@SD",News Marathi 24x7
+https:\\d35j504z0x2vu2.cloudfront.net\v1\master\0bc8e8376bd8417a1b6761138aa41c26c7309312\news-marathi-24x7\index.m3u8?ads.vf=frkc_BsxnRO
+
 #EXTINF:-1 group-title="NEWS" tvg-id="SaamTV.in@SD",Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
 
@@ -81,7 +84,7 @@ https://mumt02.tangotv.in/DDSPORTS/index.m3u8
 #EXTINF:-1  group-title="SPORTS" tvg-id="DDSports.in@SD",DD Sports (720p)
 https://cdn-6.pishow.tv/live/13/master.m3u8
 
-■■■■■■■■■■■■■■■■■■■■■■■■■■■ SPORTS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+■■■■■■■■■■■■■■■■■■■■■■■■■■■ TV CHANNEL ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 #EXTINF:-1  group-title="SPORTS" ,DD National HD (1080p)
 https:\\d3qs3d2rkhfqrt.cloudfront.net\out\v1\40492a64c1db4a1385ba1a397d357d3a\index.m3u8
 
