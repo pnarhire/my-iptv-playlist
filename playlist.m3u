@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="2026 MOVIES" tvg-logo="",
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ MOVIES ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+#EXTINF:-1 group-title="DEMO" tvg-logo="",Colors Cineplex Bollywood
+https://04jio.teachub.workers.dev/live.m3u8?id=1763
+
 #EXTINF:-1 group-title="2026 MOVIES" tvg-logo="",Zee Comedy Nation (1080p)
 https:\\amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv\playlist\amg00862-amg00862c5-amgplt0173\playlist.m3u8
 
