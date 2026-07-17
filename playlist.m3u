@@ -81,7 +81,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ MPD TV CHANNEL ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-    "id": "143",
+#EXTINF:-1  group-title="IN NEWS" ,45556
+"id": "143",
     "category": "English",
     "keyId": "eb19113c11ce5cfb80c89696765a0187",
     "key": "b2797ce5e403ee22d8e36c6d5f2b6630",
