@@ -82,9 +82,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■ MPD TV CHANNEL ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 #EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="English",CNBC TV18 Prime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb19113c11ce5cfb80c89696765a0187:b2797ce5e403ee22d8e36c6d5f2b6630
-#EXTHTTP:{"User-Agent":"Mozilla/5.0","Cookie":"hdnea=st=1784294833~exp=1784316433~acl=/*~hmac=f2f86127f1ae2aab4f20dec77a77d8fd474029c70e9455855c4523f7cb267354"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd?__hdnea__=st=1784294833~exp=1784316433~acl=/*~hmac=f2f86127f1ae2aab4f20dec77a77d8fd474029c70e9455855c4523f7cb267354
 
 
